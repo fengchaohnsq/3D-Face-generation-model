@@ -1,5 +1,5 @@
 # 3D Face generation model
-3D face generation model original from Basel face project, we made some modifications for our job.
+3D face generation model original from Basel face project, I made some modifications for our job.
 
 This model is from the simple tool to view the [Basel Face Model 2019](https://faces.dmi.unibas.ch/bfm/bfm2019.html) (compatible with the Basel Face Model 2017 and 2009).
 
