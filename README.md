@@ -43,3 +43,5 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
 此处环境变量要在java之前
 
 4.命令行进入项目文件，在该文件夹下运行'sbt run -mem 2000 console'
+
+5.三维面孔数据源于Basel Face Model 
