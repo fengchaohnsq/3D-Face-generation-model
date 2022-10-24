@@ -24,4 +24,4 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
 
 ## For Developers:
 - clone repository
-- compile and run using `sbt run -mem 2000`
+- compile and run using `sbt run -mem 2000` console
