@@ -27,16 +27,19 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
 - compile and run using `sbt run -mem 2000` console
 
 ## Tips
-1.安装java 此处选择版本为8 ，安装后配置系统环境变量，复制后面字符串到编辑环境变量内
-新增变量 变量名 JAVA_HOME  变量值 C:\Program Files\Java\jdk1.8.0_341
-C:\Program Files\Java\jdk1.8.0_341\bin
-C:\Program Files\Java\jdk1.8.0_341\jre\bin
+1.安装java 此处选择版本为8 ，安装后配置系统环境变量，复制后面字符串到编辑环境变量内新增变量 
+变量名 
+JAVA_HOME  
+变量值 
+C:\Program Files\Java\jdk1.8.0_341 
+C:\Program Files\Java\jdk1.8.0_341\bin
+C:\Program Files\Java\jdk1.8.0_341\jre\bin
 
-2.安装Scala 此处选择版本为3.2.0 ，安装后配置系统环境变量，复制后面字符串到编辑环境变量内
-%SCALA_HOME%\bin
-此处顺序要在java环境之后
+2.安装Scala 此处选择版本为3.2.0 ，安装后配置系统环境变量，复制后面字符串到编辑环境变量内
+%SCALA_HOME%\bin
+此处顺序要在java环境之后
 
-3.安装sbt 下载sbt-1.7.1.msi后直接安装
-此处环境变量要在java之前
+3.安装sbt 下载sbt-1.7.1.msi后直接安装
+此处环境变量要在java之前
 
-4.命令行进入项目文件，在该文件夹下运行sbt run -mem 2000 console
+4.命令行进入项目文件，在该文件夹下运行sbt run -mem 2000 console
