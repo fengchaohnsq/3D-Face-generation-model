@@ -5,7 +5,7 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
 
  
 ## Usage:
- ![3D Face Generation Model](example.png)
+ ![3D Face Generation Model](example.PNG)
  
  
 - the radio button of 'color' 'shape' 'expression' dimensions used to control whether include the dimension in the model to generate face 
