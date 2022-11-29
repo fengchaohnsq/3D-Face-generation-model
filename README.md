@@ -6,8 +6,9 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
  
 ## Usage:
  ![3D Face Generation Model](example.PNG)
- 
- 
+ ModelViewer
+ ![3D Face Generation Model](example2.PNG)
+ ModelViewerV0.2
 - the radio button of 'color' 'shape' 'expression' dimensions used to control whether include the dimension in the model to generate face 
 - the spinner which follows those dimension labels controls the number of parameters in each dimension
 - the button 'random' will produce a new random face based on those selected dimensions 
@@ -15,6 +16,8 @@ This model is from the simple tool to view the [Basel Face Model 2019](https://f
 - the radio button of 'yaw' 'pitch' and 'roll' will control the angle of the face, the angle is from -180 to 180.
 - the button 'expressions off' will control the expression dimension tab showing or hiding
 - the spinner 'number of export images and button 'export PNG' can generate images as you set.
+- the button of 'export RPS' will save current model parameters as rps file.
+- the button of 'load RPS' will load those saved rps files.
 
 
 ## Requirements
